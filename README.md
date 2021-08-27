@@ -5,9 +5,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelmaccormack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmaccormack&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
+<br>
 <div>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="right" alt="Rafa-cartoon" src="https://i.picasion.com/pic91/c741b8156729b5fe5f6b1c985e15904c.gif" height="135">
 </div>
 
