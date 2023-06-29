@@ -1,5 +1,9 @@
 ## Hello! My name is Rafael Nascimento 🦊
 
+Here are projects that I have used for studying purposes or even as ideas for people to benefit from. I really enjoy using the Python language and try to do everything using it alone. I am from the healthcare, finance, and technology fields, and my focus is to contribute to projects in each area in which I have expertise. Currently, I am learning how to become a Data Scientist, so the upcoming projects may be based on this subject.
+
+I enjoy creating and developing, but I tend not to complete the projects (at least here). I invite you to contribute with ideas for implementing the system. I develop for myself, but I appreciate receiving ideas to get closer to what you need and also to teach me to "see with different eyes."
+
 <div>
   <!-- Link -->
   <a href="https://github.com/rafaelmaccormack">
