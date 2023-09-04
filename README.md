@@ -18,8 +18,8 @@ I enjoy creating and developing, but I tend not to complete the projects (at lea
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Rafa-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/css3-original.svg">
-  <img align="center" alt="Rafa-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/javascript.svg">
+  <img align="center" alt="Rafa-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <!-- Image GIF -->
   <img align="right" alt="Rafa-cartoon" src="https://i.picasion.com/pic91/c741b8156729b5fe5f6b1c985e15904c.gif" height="135">
 </div>
